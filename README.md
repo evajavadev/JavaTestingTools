@@ -6,7 +6,7 @@ Basic knowledge in testing &nbsp; ✔️  <!-- ✅ -->
 
 ## Some testing tools in Java
 
->  right now - sketch and draft  
+>  right now - just a sketch and draft  
 
 <br>
 
