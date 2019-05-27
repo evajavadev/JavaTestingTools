@@ -1,12 +1,12 @@
 # Java Testing Tools
 
-Basic knowledge in testing
+Basic knowledge in testing &nbsp; ✔️
 
 <br>
 
 ## Some testing tools in Java
 
->  right now - sketch and draft &nbsp; ✔️
+>  right now - sketch and draft &nbsp; ✔️ &nbsp; ✅
 
 <br>
 
