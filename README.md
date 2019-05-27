@@ -6,6 +6,6 @@ Basic knowledge in testing
 
 ## Some testing tools in Java
 
->> &nbsp; right now - scetch and draft
+>  right now - sketch and draft
 
 
